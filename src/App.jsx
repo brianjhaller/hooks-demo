@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import regeneratorRuntime from 'regenerator-runtime';
+// import regeneratorRuntime from 'regenerator-runtime';
 // import Header from './Components/Header.jsx';
 // import Body from './Components/Body.jsx';
 
